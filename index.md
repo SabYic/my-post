@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: page
 title: Home
+permalink: /
 ---
 
-# Hello from index.md
+# Welcome to My Site
 
-This will appear as the home page.
+This is the homepage content from `index.md`.
