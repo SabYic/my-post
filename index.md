@@ -1,5 +1,8 @@
 ---
-title: Welcome to my blog
+layout: default
+title: Home
 ---
-### happyhappyhappy~111
 
+# Hello from index.md
+
+This will appear as the home page.
